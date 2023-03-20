@@ -1,9 +1,12 @@
+html{
+    font-family: sans-serif;
+}
 .img {
     background-color: palevioletred;
     border: 10px solid aqua;
     height: 200px;
     width: 200px;
-    border-radius: 50% 50% 5% 5%;
+    border-radius: 50% 50% 0 0;
     margin: 10px 6px;
     
 
@@ -11,10 +14,20 @@
 
 .girl {
     width: 160px;
-    transform: translateY(-13px);
+    transform: translateY(-14px);
+
 }
 
 .content {
     width: 230px;
+    height: 410px;
     border: 1px solid aqua;
+}
+.text{
+    
+    margin-left: 6px;
+    margin-right: 5px;
+    margin-top: -20px;
+    border: 10px solid aqua;
+    
 }
