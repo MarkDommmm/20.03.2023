@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    width: 700px;
+    text-align: center;
+    margin: 17px;
+}
+
+.head {
+    background-color: #ccc;
+    border-bottom: 1px solid #000;
+    padding: 10px;
+
+}
+
+.content {
+    padding: 16px;
+    line-height: 30px;
+}
+
+.box {
+    border: 1px solid #000;
+}
+
+button {
+    background-color: blue;
+    color: #fff;
+    padding: 8px;
+    border-radius: 7px;
+    margin-top: 7px;
+
+
+}
+
+.footer {
+    background-color: #ccc;
+    border-top: 1px solid #000;
+    padding: 10px;
+
+}

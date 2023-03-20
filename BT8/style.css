@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 666px;
+    font-family: sans-serif;
+    margin: 50px;
+}
+.head{
+    color: blue;
+    background-color: azure;
+}
+span{
+    color: aqua;
+}
+.box{
+    
+    
+}
+.head{
+    border: 1px solid #000;
+}
+.content{
+    border: 1px solid #000;
+    border-block: hidden;
+   
+}
+.footer{
+    border: 1px solid #000;
+    border-bottom: hidden;
+}
+.footer-1{
+    border: 1px solid #000;
+}
+p{
+    padding: 24px;
+}
+h4{
+   
+    padding: 15px 24px;
+}
+.ti-angle-down{
+    margin-left: 450px;
+}
+.ti-angle-up{
+    margin-left: 440px;
+}

@@ -1,0 +1,46 @@
+body {
+    width: 300px;
+}
+
+button {
+    background-color: blue;
+    border-radius: 5px;
+    border: none;
+    color: blue;
+}
+
+.head b {
+    padding-left: 10px;
+
+}
+.ti-close{
+    font-size: 14px;
+    margin-left: 10px;
+
+}
+b{
+     opacity: 0.6;
+}
+span {
+    margin-left: 110px;
+    font-size: 10px;
+    opacity: 0.6;
+  
+
+}
+
+.head {
+    border: 1px solid #000;
+    padding: 10px;
+    border-radius: 4px 4px 0 0;
+    border-bottom: hidden;
+    
+}
+
+.footer {
+    border: 1px solid #000;
+    padding-left: 10px;
+    border-radius: 0 0 4px 4px;
+
+
+}

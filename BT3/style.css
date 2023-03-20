@@ -1,0 +1,12 @@
+body{
+    width: 600px;
+}
+
+.img img{
+    width:calc(100%/2);
+    float: left;
+}
+
+h3{
+    font-style: italic;
+}

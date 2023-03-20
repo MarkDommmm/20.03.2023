@@ -1,0 +1,34 @@
+html{
+    font-family: sans-serif;
+}
+img {
+    border-radius: 10px 10px 0 0;
+    width: 300px;
+}
+.container-big{
+    background-color: aquamarine;
+    padding: 10px;
+    width: 303px;
+}
+.container {
+    width: 300px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 10px 10px 0 0;
+}
+
+.content {
+    padding-left: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.list p {
+    border-bottom: 1px solid #ccc;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.nav a {
+    padding: 10px;
+
+}

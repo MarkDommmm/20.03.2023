@@ -1,0 +1,52 @@
+html{
+    font-family: sans-serif;
+}
+.head span{
+    color: red;
+    background-color: #f8f3f3;
+}
+
+.border{
+    text-align: center;
+    padding: 24px;
+    border: 5px solid greenyellow;
+    margin-bottom: 16px;
+}
+
+.content{
+    background-color: #ddd;
+    padding: 12px;
+}
+.box {
+    background-color: #fff;
+    border-left: 5px solid red;
+    padding: 12px 7px;
+    line-height: 4px;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.pink{
+    color: pink;
+}
+span{
+    color: #000;
+}
+i{
+    color: blue;
+}
+button{
+    color: black;
+    background-color: red;
+    border: none;
+    margin-top: 16px;
+    padding: 4px 15px;
+    border-radius: 3px;
+}
+.ti-angle-double-right{
+    font-size: 8px;
+    color: #000;
+}
